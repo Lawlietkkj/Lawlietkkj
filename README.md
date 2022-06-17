@@ -1,4 +1,4 @@
-## Olá eu o Italo, espero trabalha com vocé na programação e outras tecnologia
+## Olá eu o Italo, espero trabalha com vocé na programação entre outras tecnologia
 
 <div align="center">
   <a href="https://github.com/Lawlietkkj">
