@@ -1,10 +1,5 @@
 ## Olá eu o Italo
 
-- 🔭 Pretendo trabalha com front end e back end e procurando primeira oportunidade
-- 🌱 Estudando JavaScript e python
-- 📫 Contate-me no email: italoassisptu@gmail.com
-- 😄 Pronouns: ele/dele
-
 <div align="center">
   <a href="https://github.com/Lawlietkkj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lawlietkkj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
